@@ -9,7 +9,7 @@ import restaurantRoute from "./routes/RestaurantRoute";
 import orderRoute from "./routes/OrderRoute";
 
 mongoose
-  .connect(process.env.MONGODB_CONNECTION_STRING as string)
+  .connect("mongodb://localhost:27017")
   .then(() => console.log("Connected to database!"));
 
 cloudinary.config({
