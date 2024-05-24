@@ -2,3 +2,6 @@ MERNEAT IS MERN STACK FOOD ORDERING WEBSITE
 TECH STACK USED IN IT IS
 ---- JS NODEJS TS REACT 
 ----- CLOUDNARY STRIPE AUTH0
+![GitHub Logo](/img1%20(1).png)
+![GitHub Logo](/img1%20(3).png)
+![GitHub Logo](/img1%20(2).png)
